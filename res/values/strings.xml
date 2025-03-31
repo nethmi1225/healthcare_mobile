@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Healthcare2</string>
+    <string name="welcome">Welcome!</string>
+    <string name="how_is_it_going_today">How is it going today?</string>
+    <string name="search_doctor_drugs_articles">Search doctor, drugs, articles...</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="let_s_get_started">Let\'s get started!</string>
+    <string name="login_to_stay_healthy_and_fit">Login to stay healthy and fit</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_email">Enter email</string>
+    <string name="todo">TODO</string>
+    <string name="healthcare_app">Healthcare App</string>
+    <string name="skip">Skip</string>
+    <string name="register">Register</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="home">Home</string>
+    <string name="jobs">Jobs</string>
+    <string name="profile">Profile</string>
+    <string name="top_doctors">Top Doctors</string>
+    <string name="doctors_list_description">List of top doctors</string>
+    <string name="search_healthcare_products">Search healthcare products</string>
+    <string name="products_list_description">List of healthcare products</string>
+    <string name="search_bar_for_healthcare_products">Search bar for healthcare products</string>
+
+</resources>

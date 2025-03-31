@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnLogout" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="logo" type="id" />
+    <item name="name" type="id" />
+    <item name="registerButton" type="id" />
+    <item name="haveAccountText" type="id" />
+    <item name="loginLink" type="id" />
+    <item name="doctorProfileEmail" type="id"/>
+    <item name="doctorProfileExperience" type="id"/>
+    <item name="doctorProfileBio" type="id"/>
+    <item name="doctorProfileSpecialty" type="id"/>
+    <item name="doctorDetailsCard" type="id"/>
+    <item name="doctorProfileName" type="id"/>
+    <item name="doctorProfileAvatar" type="id"/>
+    <item name="productName" type="id"/>
+    <item name="addToCartButton" type="id"/>
+</resources>
